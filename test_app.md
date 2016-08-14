@@ -1,4 +1,4 @@
-# Hello WOrld, I love ROR!!!
+# Hello World, I love ROR!!!
 
 ```ruby
 puts "Hello World!"
